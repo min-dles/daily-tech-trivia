@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Daily Tech Trivia: a coding project
+Now that I've graduated from Prime Digital Academy, I'm going to be updating and maintaining this web app for daily trivia facts in preparation of technical interviews. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
